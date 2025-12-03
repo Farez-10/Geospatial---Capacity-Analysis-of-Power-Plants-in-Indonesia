@@ -1,0 +1,159 @@
+country,country_long,name,gppd_idnr,capacity_mw,latitude,longitude,fuel1,fuel2,fuel3,fuel4,commissioning_year,owner,source,url,geolocation_source,year_of_capacity_data,generation_gwh_2013,generation_gwh_2014,generation_gwh_2015,generation_gwh_2016,estimated_generation_gwh
+IDN,Indonesia,Ampenan,WRI1000736,56.284,-8.5667,116.0667,Oil,,,,,PLN - West Nusa Tenggara Regional Unit/NTB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,2053.0004385803577
+IDN,Indonesia,Asahan I,WRI1000737,180.0,2.5113,99.259,Hydro,,,,,PT Bajradaya Sentranusa (China Huadian Corporation 70% + PJB 26.5%+Nusa Konstruksi Engineering 3.5%),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,598.0008737623891
+IDN,Indonesia,Bakaru,WRI1000738,126.0,-3.1141,119.6042,Hydro,,,,,PLN-South&South East Sulawesi Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,418.6006116336724
+IDN,Indonesia,Balambano,WRI1000739,130.0,-2.5213,121.357,Hydro,,,,,PT. Inco,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,431.8895199395033
+IDN,Indonesia,Bengkok+Dago/saguling,WRI1000743,3.85,-6.6247,107.5564,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,12.790574244362212
+IDN,Indonesia,Besai - Way Kanan,WRI1000744,92.8,-4.9822,104.8051,Hydro,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,308.3026726952762
+IDN,Indonesia,Bili bili,WRI1000745,20.1,-5.2779,119.5817,Hydro,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,66.77676423680012
+IDN,Indonesia,Bitung - Menado,WRI1000746,56.62,1.4451,125.1824,Oil,,,,,PLN-Nth & Ctrl Sulawesi & Gorontalo Reg Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,2065.2562865542577
+IDN,Indonesia,Cikalong/saguling,WRI1000747,19.2,-6.9039,107.6186,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,63.78675986798818
+IDN,Indonesia,CirataI & II,WRI1000748,1008.0,-6.7004,107.3671,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,3348.8048930693794
+IDN,Indonesia,Darajat 1,WRI1000750,55.0,-7.2173,107.7394,Geothermal,,,,,PLN – Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,411.3934426229508
+IDN,Indonesia,Darajat 2  3,WRI1000751,215.0,-7.2173,107.7394,Geothermal,,,,,PT. Chevron Geothermal Darajat  Ltd,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1608.1743666169896
+IDN,Indonesia,Dieng,WRI1000752,60.0,-7.2061,109.9119,Geothermal,,,,,PT. Geo Dipa Energy,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,448.7928464977646
+IDN,Indonesia,Giringan - Pamekasan,WRI1000755,3.2,-7.7201,111.6715,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,10.631126644664697
+IDN,Indonesia,Golang - Pamekasan,WRI1000756,2.7,-8.1408,111.1317,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,8.97001310643584
+IDN,Indonesia,Gunung Malang,WRI1000758,25.536,-6.7409,106.673,Oil,,,,,PLN-East Kalimantan Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,931.4444460164171
+IDN,Indonesia,Gunung Salak,WRI1000759,375.0,-6.7416,106.648,Geothermal,,,,,PT. Chevron Geothermal Salak  Ltd,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,2804.9552906110284
+IDN,Indonesia,Jatiluhur,WRI1000762,186.0,-6.523,107.389,Hydro,,,,,Perum Jasa Tirta II,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,617.9342362211355
+IDN,Indonesia,Kamojang 1  2  3,WRI1000764,140.0,-6.4239,107.4553,Geothermal,,,,,PLN – Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1047.183308494784
+IDN,Indonesia,Kamojang 4,WRI1000765,60.0,-6.4239,107.4553,Geothermal,,,,,PT. Pertamina Geothermal Energy,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,448.7928464977646
+IDN,Indonesia,Kayu Merah - Ternate,WRI1000769,21.084,0.8,127.4,Oil,,,,,PLN - Maluku Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,769.054460362239
+IDN,Indonesia,Kendari - Rental,WRI1000771,36.3,1.0591,120.798,Oil,,,,,PLN - Rental,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1324.0692900374347
+IDN,Indonesia,Ketenger / mrica,WRI1000772,8.04,-7.5097,109.2778,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,26.710705694720048
+IDN,Indonesia,Klambu/Mrica,WRI1000773,1.117,-7.0069,110.7964,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,3.71092764440327
+IDN,Indonesia,Koto Panjang Kampar,WRI1000775,114.0,0.2905,100.8814,Hydro,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,378.7338867161798
+IDN,Indonesia,Kracak/saguling,WRI1000776,18.9,-6.9039,107.6186,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,62.79009174505087
+IDN,Indonesia,Lahendong (Binary Cycle),WRI1000777,20.0,1.3346,124.8392,Geothermal,,,,,BPPT + Pertamina,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,149.59761549925486
+IDN,Indonesia,Lahendong IV,WRI1000778,80.0,1.2542,124.8225,Geothermal,,,,,PLN + Pertamina Geothermal Energy,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,598.3904619970194
+IDN,Indonesia,Lamajan/saguling,WRI1000779,19.56,-6.9039,107.6186,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,64.98276161551296
+IDN,Indonesia,Larona,WRI1000780,165.0,-2.8194,121.5783,Hydro,,,,,PT. Inco,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,548.1674676155234
+IDN,Indonesia,Lau Renun,WRI1000781,82.0,3.0824,98.065,Hydro,,,,,PLN - Pandan Sector,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,272.42262026953284
+IDN,Indonesia,Lodoyo - Brantas,WRI1000783,4.5,-8.1613,112.2173,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,14.95002184405973
+IDN,Indonesia,Maninjau III,WRI1000785,123.0,-0.2923,100.152,Hydro,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,408.6339304042993
+IDN,Indonesia,Mendalan - Brantas,WRI1000788,23.0,-7.854,112.3316,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,76.41122275852751
+IDN,Indonesia,Minahasa - rental,WRI1000791,35.0,-1.4789,122.3858,Oil,,,,,PLN - rental,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1276.6508306146068
+IDN,Indonesia,Musi,WRI1000792,215.475,-3.766,102.435,Hydro,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,715.8568792997268
+IDN,Indonesia,Ngebel - Pamekasan,WRI1000793,2.2,-7.7891,111.6167,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,7.3088995682069795
+IDN,Indonesia,North Duri Cogeneration Plant,WRI1000794,300.0,1.3722,101.226,Gas,,,,,PT Mandau Cipta Tenaga Nusanatara (subsidiary of Chevron),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1318.1967213114756
+IDN,Indonesia,PB. Sudirman/Mrica,WRI1000800,180.9,-7.3927,109.6054,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,600.9908781312012
+IDN,Indonesia,PLTG (ex PLTD Sunyaragi),WRI1000809,18.0,-7.4064,109.5842,Gas,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,79.09180327868853
+IDN,Indonesia,PLTG Belawan,WRI1000817,260.0,3.5833,98.6667,Gas,,,,,PLN / KITSUMBAGUT,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1142.4371584699454
+IDN,Indonesia,PLTG Belawan TTF,WRI1000818,105.0,3.5833,98.6667,Gas,,,,,PLN / KITSUMBAGUT,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,461.3688524590164
+IDN,Indonesia,PLTG Cikarang Listrindo,WRI1000821,150.0,-6.1133,106.7788,Gas,,,,,PT. Cikarang Listrindo,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,659.0983606557378
+IDN,Indonesia,PLTG Cilacap,WRI1000822,55.0,-7.7264,109.0094,Gas,,,,,PLN – Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,241.66939890710384
+IDN,Indonesia,PLTG Duri ex PLTG Sunyaragi Cent Java,WRI1000824,20.0,-7.4064,109.5842,Gas,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,87.87978142076503
+IDN,Indonesia,PLTG Gilimanuk,WRI1000825,133.0,-8.1716,114.4344,Gas,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,584.4005464480874
+IDN,Indonesia,PLTG Grati,WRI1000829,302.0,-7.6517,113.0244,Gas,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,1326.984699453552
+IDN,Indonesia,PLTG Gresik,WRI1000830,80.0,-7.1633,112.6615,Gas,,,,,PLN – Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,351.5191256830601
+IDN,Indonesia,PLTG Keramasan,WRI1000833,145.0,-2.9167,104.7458,Gas,,,,,PT Asta Keramasan Energy (AKE),Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,637.1284153005465
+IDN,Indonesia,PLTG Keramasan #1 2 3 4,WRI1000834,65.0,-2.9167,104.7458,Gas,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,285.60928961748635
+IDN,Indonesia,PLTG Krakatau Posco Energy,WRI1000835,200.0,-6.0048,105.9961,Gas,,,,,PT. Krakatau Posco Energy (JV : Korea Posco Energy (70%) + PT. Krakatau Daya Listrik (30%)),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,878.7978142076503
+IDN,Indonesia,PLTG Muara Tawar B-3,WRI1000836,420.0,-6.0867,106.9987,Gas,,,,,PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,1845.4754098360656
+IDN,Indonesia,PLTG Muara Tawar Block 4,WRI1000837,420.0,-6.0867,106.9987,Gas,,,,,PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,1845.4754098360656
+IDN,Indonesia,PLTG Pemaron,WRI1000844,97.0,-8.1189,115.0887,Gas,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,426.2169398907104
+IDN,Indonesia,PLTG Pesanggaran,WRI1000845,122.0,-8.7157,115.214,Gas,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,536.0666666666667
+IDN,Indonesia,PLTG Priok,WRI1000846,52.0,-6.1071,106.8716,Gas,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,228.48743169398907
+IDN,Indonesia,PLTG Sengkang/Wajo,WRI1000849,180.0,-5.14,119.4221,Gas,,,,,PT. Energy Sengkang,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,790.9180327868852
+IDN,Indonesia,PLTG Sunyaragi 1 2 3 4,WRI1000855,80.0,-7.4064,109.5842,Gas,,,,,PLN – Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,351.5191256830601
+IDN,Indonesia,PLTG Tarakan,WRI1000858,23.0,3.3,117.6333,Gas,,,,,PT. Cahaya Sakti,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,101.0617486338798
+IDN,Indonesia,PLTG Tello,WRI1000859,123.0,-5.14,119.4221,Gas,,,,,PLN-South&South East Sulawesi Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,540.4606557377049
+IDN,Indonesia,PLTGB Singkawang,WRI1000867,9.0,0.9,109.0,Gas,,,,,PLT – rented from PT. Krista Inti Persada,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,39.545901639344265
+IDN,Indonesia,PLTGB Tanjung Batu,WRI1000868,2.0,-0.5,117.15,Gas,,,,,PLN – sewa,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,8.787978142076502
+IDN,Indonesia,PLTGU Bekasi Power,WRI1000870,130.0,-6.2611,107.1528,Gas,,,,,PT. Bekasi Power/PT. Kawasan Industri Jababeka Tbk,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,571.2185792349727
+IDN,Indonesia,PLTGU Belawan – Sicanang,WRI1000871,817.0,3.7715,98.6687,Gas,,,,,PLN / KITSUMBAGUT,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,3589.889071038251
+IDN,Indonesia,PLTGU Cilegon,WRI1000874,903.0,-5.9306,106.1042,Gas,,,,,PLN Cilegon Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,3967.7721311475407
+IDN,Indonesia,PLTGU Grati,WRI1000875,461.0,-7.6517,113.0244,Gas,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,2025.6289617486336
+IDN,Indonesia,PLTGU Gresik,WRI1000876,1579.0,-7.1633,112.6615,Gas,,,,,PLN – Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,6938.1087431694
+IDN,Indonesia,PLTGU Krakatau Daya Listrik (KDL),WRI1000878,400.0,-5.9924,105.9849,Gas,,,,,PT. Krakatau Daya Listrik,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1757.5956284153006
+IDN,Indonesia,PLTGU Muara Karang Block I,WRI1000879,509.0,-6.1087,106.7877,Gas,,,,,PLN – Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,2236.5404371584696
+IDN,Indonesia,PLTGU Muara Karang repowering,WRI1000880,753.0,-6.1087,106.7877,Gas,,,,,PLN – Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,3308.673770491803
+IDN,Indonesia,PLTGU Muara Karang repowering Blok 2,WRI1000881,210.0,-6.1087,106.7877,Gas,,,,,PLN – Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,922.7377049180328
+IDN,Indonesia,PLTGU Muara Tawar Block 1 &2,WRI1000882,920.0,-6.0867,106.9987,Gas,,,,,PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,4042.469945355191
+IDN,Indonesia,PLTGU Muara Tawar Block 5,WRI1000883,384.0,-6.0867,106.9987,Gas,,,,,PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,1687.2918032786886
+IDN,Indonesia,PLTGU Priok Block 1   2,WRI1000885,1180.0,-6.1102,106.8671,Gas,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,5184.907103825137
+IDN,Indonesia,PLTGU Sengkang/Wajo,WRI1000886,135.0,-5.14,119.4221,Gas,,,,,PT. Energy Sengkang,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,593.1885245901639
+IDN,Indonesia,PLTGU Tambak Lorok,WRI1000887,1034.0,-6.9505,110.434,Gas,,,,,PLN – Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,4543.384699453552
+IDN,Indonesia,PLTMG Panaran,WRI1000894,24.0,0.1807,101.8444,Gas,,,,,bright PLN Batam,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,105.45573770491804
+IDN,Indonesia,PLTMG Pulau Bunyu,WRI1000898,2.0,3.5,117.8333,Gas,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,8.787978142076502
+IDN,Indonesia,PLTMG Tj. Jabung,WRI1000904,8.0,-1.0167,104.3667,Gas,,,,,PT. Tanjung Jabung Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,35.15191256830601
+IDN,Indonesia,PLTU - Palu - Mpanau - Tawaeli,WRI1000906,30.0,-0.8917,119.8707,Coal,,,,,PT. Pusaka Jaya Palu Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,159.3238591226057
+IDN,Indonesia,PLTU -Jeneponto I & II,WRI1000907,250.0,-5.6184,119.5506,Coal,,,,,PT Bosowa Energy,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1327.6988260217142
+IDN,Indonesia,PLTU Asam-asam 1 & 2,WRI1000910,260.0,-3.9253,115.1043,Coal,,,,,PLN - South Kalimantan Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1380.8067790625828
+IDN,Indonesia,PLTU Banjarsari/Merapi Timur-Lahat,WRI1000913,220.0,-3.7241,103.6894,Coal,,,,,PT. Bukit Pembangkit Inovatif (PT BA 59.75%  PT PJB 29.15% dan PT Navigate Innovative Indonesia (PT NII) 11.1%),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1168.3749668991086
+IDN,Indonesia,PLTU Banten 1 - Suralaya unit 8,WRI1000914,625.0,-6.0585,106.4646,Coal,,,,,PLN -.PT Indonesia Power - 2010,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,3319.247065054285
+IDN,Indonesia,PLTU Banten 2 - Labuhan,WRI1000915,600.0,-6.3919,105.8288,Coal,,,,,PLN / 2010,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,3186.477182452114
+IDN,Indonesia,PLTU Banten 3 - Teluk Naga/Lontar,WRI1000916,945.0,-6.0585,106.4646,Coal,,,,,PLN + Dongfang Electrik Corp  PT Dalle Energy,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,5018.70156236208
+IDN,Indonesia,PLTU Bilibili,WRI1000918,2.0,-2.5213,121.357,Coal,,,,,PLN-South&South East Sulawesi Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,10.621590608173712
+IDN,Indonesia,PLTU Bukit Asam,WRI1000919,30.0,-3.7316,103.7975,Coal,,,,,PT BA for own use,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,159.3238591226057
+IDN,Indonesia,PLTU Cilacap 1 & 2,WRI1000920,600.0,-7.7513,109.0186,Coal,,,,,PT. Sumber Segara Primadaya,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,3186.477182452114
+IDN,Indonesia,PLTU Cirebon,WRI1000921,660.0,-6.7704,108.6151,Coal,,,,,PT. Cirebon Electric Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,3505.1249006973258
+IDN,Indonesia,PLTU Embalut - Tanjung Batu,WRI1000925,50.0,-0.5,117.15,Coal,,,,,PT. Cahaya Fajar Kaltim,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,265.53976520434287
+IDN,Indonesia,PLTU Gresik,WRI1000929,600.0,-7.1633,112.6615,Coal,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,3186.477182452114
+IDN,Indonesia,PLTU Hendratna,WRI1000932,5.0,-2.5213,121.357,Coal,,,,,PT. Hendratna Plywood,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,26.553976520434286
+IDN,Indonesia,PLTU Jabar Selatan - Pelabuhan Ratu,WRI1000938,1050.0,-7.0242,106.5464,Coal,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,5576.3350692912
+IDN,Indonesia,PLTU Jawa Barat - Indramayu,WRI1000939,990.0,-6.2747,107.9704,Coal,,,,,PLN + China National Electric Engineering Co.  Ltd. (CNEEC),Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,5257.687351045988
+IDN,Indonesia,PLTU Jawa Tengah 1 - Rembang,WRI1000940,630.0,-6.636,111.4749,Coal,,,,,PLN(EPC : Zeland-Priamanaya-Tronoh),Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,3345.80104157472
+IDN,Indonesia,PLTU Kaur,WRI1000943,200.0,-2.5213,121.357,Coal,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1062.1590608173717
+IDN,Indonesia,PLTU Keramasan,WRI1000945,25.0,-2.5213,121.357,Coal,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,132.76988260217144
+IDN,Indonesia,PLTU Kupang,WRI1000947,30.0,-2.5213,121.357,Coal,,,,,PT. Indonesia Power & electrindo Perkasa Utama,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,159.3238591226057
+IDN,Indonesia,PLTU Labuhan Angin,WRI1000948,230.0,1.7176,98.7265,Coal,,,,,PLN - North Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1221.4829199399771
+IDN,Indonesia,PLTU Lati,WRI1000949,14.0,-2.5213,121.357,Coal,,,,,PLN - East Kalimantan Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,74.351134257216
+IDN,Indonesia,PLTU Listrindo,WRI1000950,2.5,-2.5213,121.357,Coal,,,,,PT. Listrindo (IPP),Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,13.276988260217143
+IDN,Indonesia,PLTU Muara Karang,WRI1000954,400.0,-6.1069,106.7882,Coal,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,2124.318121634743
+IDN,Indonesia,PLTU NAD-Nagan Raya,WRI1000956,220.0,4.1089,96.1972,Coal,,,,,PLN (EPC : Sinohydro Co. Ltd),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1168.3749668991086
+IDN,Indonesia,PLTU Ombilin - Sijantang - Sawahlunto,WRI1000960,200.0,-0.6094,100.7535,Coal,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,1062.1590608173717
+IDN,Indonesia,PLTU Paiton I Unit 7 & 8,WRI1000941,5355.0,-7.7184,113.5827,Coal,,,,,PT. Paiton Energy Corp,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,28439.30885338512
+IDN,Indonesia,PLTU Pakerin,WRI1000965,34.0,-2.5213,121.357,Coal,,,,,PT. Pakerin (pulp industry),Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,180.56704033895312
+IDN,Indonesia,PLTU Pangkalan Bun,WRI1000966,14.0,-2.6833,111.6167,Coal,,,,,PT. Energi Listrik Indonesia (subsidiary of PT. Eksploitasi Energi Indonesia),Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,74.351134257216
+IDN,Indonesia,PLTU Pangkalan Susu 1 & 2,WRI1000967,400.0,4.1196,98.2555,Coal,,,,,PLN (EPC : PT. Bagus Karya  Guangdong Power Engineering  PT. Nincec Multi Dimensi),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,2124.318121634743
+IDN,Indonesia,PLTU Perak,WRI1000970,100.0,-7.2492,112.7508,Coal,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,531.0795304086857
+IDN,Indonesia,PLTU Priok 3 & 4,WRI1000972,100.0,-6.1071,106.8716,Coal,,,,,PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,531.0795304086857
+IDN,Indonesia,PLTU Rancong,WRI1000974,30.0,-2.5213,121.357,Coal,,,,,PT. Jorindo Aceh Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,159.3238591226057
+IDN,Indonesia,PLTU Sanggau,WRI1000975,14.0,-2.5213,121.357,Coal,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,74.351134257216
+IDN,Indonesia,PLTU Simpang Belimbing,WRI1000978,227.0,-3.4,104.1158,Coal,,,,,PT. Guo Hua Energy Musi Makmur,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1205.5505340277164
+IDN,Indonesia,PLTU Sulawesi Selatan - Barru/FTP1,WRI1000979,100.0,-4.2931,119.6326,Coal,,,,,PLN-South&South East Sulawesi Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,531.0795304086857
+IDN,Indonesia,PLTU Sumbar - Teluk sirih Unit 1,WRI1000980,112.0,-1.0772,100.3727,Coal,,,,,PLN (EPC: CNTIC (China National Tecnical Import Corporation)),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,594.809074057728
+IDN,Indonesia,PLTU Suparma,WRI1000981,27.0,-2.5213,121.357,Coal,,,,,PT. Suparma (pulp industry),Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,143.39147321034514
+IDN,Indonesia,PLTU Suralaya,WRI1000982,3400.0,-5.892,106.03,Coal,,,,,PLN -.PT Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,18056.704033895312
+IDN,Indonesia,PLTU Tabalong,WRI1000983,60.0,-2.5213,121.357,Coal,,,,,PT. Makmur Sejahtera Wisesa (owned by PT. Adaro),Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,318.6477182452114
+IDN,Indonesia,PLTU Tambak Lorok,WRI1000984,300.0,-6.9507,110.4304,Coal,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,1593.238591226057
+IDN,Indonesia,PLTU Tanjung Alam Perkasa,WRI1000985,7.5,-2.5213,121.357,Coal,,,,,PT. Tanjung Alam Perkasa,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,39.83096478065143
+IDN,Indonesia,PLTU Tanjung Enim -Bukit Asam,WRI1000988,260.0,-3.7316,103.7975,Coal,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,1380.8067790625828
+IDN,Indonesia,PLTU Tanjung Jati B,WRI1000990,1320.0,-6.446,110.7423,Coal,,,,,PT. Central Java Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,7010.249801394652
+IDN,Indonesia,PLTU Tanjung Jati B - expansion,WRI1000991,1324.0,-6.446,110.7423,Coal,,,,,PT. Central Java Power (EPC : Korea Midland Power Co),Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,7031.492982610998
+IDN,Indonesia,PLTU Tanjung Kasam,WRI1000992,110.0,1.0455,104.133,Coal,,,,,PT. Tanjung Kasam Power Batam (PT. TJK Power),Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,584.1874834495543
+IDN,Indonesia,PLTU Tarahan # 1  2,WRI1000994,200.0,-5.518,105.35,Coal,,,,,Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1062.1590608173717
+IDN,Indonesia,PLTU Tarahan 3 & 4 - Sebalang,WRI1000995,200.0,-5.518,105.35,Coal,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1062.1590608173717
+IDN,Indonesia,PLTU Tello,WRI1000997,25.0,-5.14,119.4221,Coal,,,,,PLN-South&South East Sulawesi Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,132.76988260217144
+IDN,Indonesia,PLTU Tonasa II (Boiler Turbine Generator),WRI1000999,70.0,-4.7846,119.6163,Coal,,,,,PT. Semen Gresik Tbk/PT. Semen Indonesia,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,371.75567128608
+IDN,Indonesia,Pejengkolan/Mrica,WRI1000801,1.4,-7.5694,109.8006,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,4.651117907040805
+IDN,Indonesia,Pemaron BOO,WRI1000802,45.0,-8.1189,115.0887,Oil,,,,,PT. Cogindo DayaBersama - rental,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1641.4082107902084
+IDN,Indonesia,Pesanggaran,WRI1000803,75.78,-8.7157,115.214,Oil,,,,,INDONESIA POWER UNIT,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,2764.131426970712
+IDN,Indonesia,Pesanggaran BOO,WRI1000804,75.0,-8.7157,115.214,Oil,,,,,Anggreko International - rental,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,2735.6803513170144
+IDN,Indonesia,Pesanggaran BOT,WRI1000805,51.0,-8.7157,115.214,Oil,,,,,Anggreko International - rental,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1860.2626388955696
+IDN,Indonesia,Plengan/Saguling,WRI1000806,6.87,-6.9039,107.6186,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,22.82370001526452
+IDN,Indonesia,Riam Kanan/pangeran Muhamad Nur,WRI1001004,30.0,-3.5156,115.0074,Hydro,,,,,PLN,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,99.66681229373154
+IDN,Indonesia,Saguling,WRI1001005,700.72,-6.9126,107.3663,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,GEODB,,,,,,2327.950957015452
+IDN,Indonesia,Sempor/Mrica,WRI1001009,1.0,-7.4733,109.3331,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,3.3222270764577178
+IDN,Indonesia,Sengguruh - Brantas,WRI1001010,29.0,-8.1764,112.551,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,96.34458521727382
+IDN,Indonesia,Sidorejo/Mrica,WRI1001013,1.4,-7.4764,110.2622,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,4.651117907040805
+IDN,Indonesia,Sigura gura (asahan II),WRI1001014,286.0,2.5196,99.2793,Hydro,,,,,PT. Indonesia Asahan aluminium,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,950.1569438669072
+IDN,Indonesia,Silae,WRI1001015,43.7,-0.8917,119.8707,Oil,,,,,PLN-Nth & Ctrl Sulawesi & Gorontalo Reg Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1593.9897513673804
+IDN,Indonesia,Singkarak,WRI1001017,175.0,-0.6909,100.6034,Hydro,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,581.3897383801007
+IDN,Indonesia,Sipansihaporas,WRI1001018,50.0,1.7427,98.7792,Hydro,,,,,PLN - North Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,166.1113538228859
+IDN,Indonesia,Suppa - Pare pare,WRI1001020,60.0,-4.0135,119.6255,Oil,,,,,PT. Makasar Power (Alsons Power Holdings Corp + Toyota Tsusho Corp/Tomen + Singapore Power),Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,2188.5442810536115
+IDN,Indonesia,Sutami / Karangkates - Brantas,WRI1001021,105.0,-8.1606,112.4443,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,348.8338430280604
+IDN,Indonesia,Talang Padang,WRI1001023,12.5,-0.9492,100.3543,Oil,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,455.9467252195024
+IDN,Indonesia,Tangga (asahan II),WRI1001024,317.0,2.5479,99.3028,Hydro,,,,,PT. Indonesia Asahan aluminium,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1053.1459832370963
+IDN,Indonesia,Tegineneng,WRI1001028,28.2,-5.6015,104.7988,Oil,,,,,PLN-South Sumatera Generation Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1028.6158120951975
+IDN,Indonesia,Tello,WRI1001031,50.092,-5.14,119.4221,Oil,,,,,PLN-South&South East Sulawesi Regional Unit,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1827.142668775625
+IDN,Indonesia,Tenau Kupang,WRI1001033,34.73,-10.1667,123.5833,Oil,,,,,PLN - East Nusa Tenggara Regional Unit/NTT,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,1266.8023813498653
+IDN,Indonesia,Timo / Mrica,WRI1001035,12.0,-6.9485,110.4069,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,39.86672491749261
+IDN,Indonesia,Tulungagung - Brantas,WRI1001038,36.0,-8.0657,111.9025,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,119.60017475247784
+IDN,Indonesia,Ubrug/saguling,WRI1001039,18.36,-6.9039,107.6186,Hydro,,,,,PLN - PT. Indonesia Power,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,60.996089123763696
+IDN,Indonesia,Ulubelu 1 & 2,WRI1001040,110.0,-5.3096,104.5733,Geothermal,,,,,PT. PLN,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,822.7868852459015
+IDN,Indonesia,Wayang Windu,WRI1001044,227.0,-7.1966,107.6258,Geothermal,,,,,PT. Star Energy,Indonesia Power Generation,https://repit.wordpress.com/,WRI,,,,,,1697.9329359165424
+IDN,Indonesia,Wlingi - Brantas,WRI1001045,54.0,-8.0776,112.3311,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,179.40026212871678
+IDN,Indonesia,Wonorejo - Pamekasan,WRI1001046,6.3,-8.1136,112.2869,Hydro,,,,,PLN - Java Bali Generation Unit / PT. PJB,Indonesia Power Generation,https://repit.wordpress.com/,CARMA,,,,,,20.93003058168362
